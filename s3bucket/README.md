@@ -1,6 +1,6 @@
 # s3bucket
 
-Simple module to create a generic s3 bucket with CDN in north America and Europe.
+Simple module to create a generic private s3 bucket with CDN in north America and Europe.
 
 ## Usage
 
